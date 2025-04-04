@@ -1,0 +1,18 @@
+body{
+    font-size: 16px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif
+}
+p{
+    line-height: 1.5;
+}
+img{
+    max-height: 400px;
+}
+h1{
+    background-color:rgb(124, 216, 255);
+    color: black;
+}
+.strong{
+    color: rgb(241, 16, 16);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
